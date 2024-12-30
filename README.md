@@ -1,10 +1,4 @@
-# responsive-carousel
-a responsive carousel built using the react-responsive-carousel library
-
-
-Here’s a sample README.md file for your Section0 carousel component:
-
-
+# 
 # Features
 Responsive Design
 Mobile-Friendly
